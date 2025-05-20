@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: "font";
-  src: url(".././public/pricedown.otf");
+  src: url("/pricedown.otf");
 }
 
 * {
